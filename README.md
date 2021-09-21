@@ -29,20 +29,18 @@
   • Mark item as watched
   • Remove an item
 - What is the purpose of your project?
-  The purpose of the project is to build a SPA from scratch, with the help of specific technologies and the data taken from an already setted API, to deliver some specific features to a potential client meeting its requirements.
+  The purpose of the project is to build an SPA from scratch, with the help of specific technologies and the data taken from an already setted API, to deliver some specific features to a potential customer and meeting the client´s requirements.
 
 ## Technologies Used
 
 - Code sandbox as the main online web development editor for the project.
-- React as the main online web development editor for the project.
-- JS as the main online web development editor for the project.
-  -HTML as the main online web development editor for the project.
-  -CSS as the main online web development editor for the project.
-  -Bootstrap as the main online web development editor for the project.
+- React as a base in the development of the UI and component as single-page-application
+- JS open library and HTML incorporated in it.
+-Bootstrap for the design which contains CSS frameworks and JS
 
 ## Features
 
-List the ready features here:
+List of the ready features:
 
 - Add movies to My Movies List
 - Delete Movies from My Movies List
@@ -51,37 +49,48 @@ List the ready features here:
 
 ## Setup
 
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Open your terminal and then type
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+$ git clone https://github.com/lkm779/project-2.git
 
-After the installation of Node and React is completed, change to the directory where your app was installed:
+This clones the repo
 
--cd my app
+cd into the new folder and type
 
-and the finally run npm start to see your app live on localhost:
+$ npm install
 
--npm start
+This installs the required dependencies
+
+To run the React project.
+$ npm start
+
+You are done!the React project in the new folder that's created.
 
 ## Usage
 
 How does one go about using it?
-Provide various use cases and code examples here.
+
 
 User-Story link: https://miro.com/app/board/o9J_lxcfQSE=/
 Wireframe link: https://miro.com/app/board/o9J_lxcfQSE=/
 
 ## Project Status
 
-Project is: _complete_. If you are no longer working on it, provide reasons why.
+Project is: _complete_. 
 
 ## Challenges:
+-Planning: One of the main issues I had from the beginning was the planning in terms of implementing a solid wireframe and user-story to later on implement a high level component design and then from there move to the low level design  apply all the functionalities 
+-Restructuring: At the same time this issues contributed of failing to deliver one unique project and that´s one of the reasosn why i had to build several projects from scratch.
+-Passing the state: I also had several issues passing the states at different times of the project which difficulted me from delivering unwatch all and remove all deliverables, as these kept crashing the app I had to proceed to delete them.
+
+
 
 ## Room for Improvement
 
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 The main areas to be improved are
+• Design
 • Remove all items
 • Remove all watched items
 
@@ -101,3 +110,4 @@ https://reactjs.org/tutorial/tutorial.html
 https://www.youtube.com/watch?v=XtMThy8QKqU
 https://www.youtube.com/
 And all the documentation available on Aula in addition to the prerecorded sessions.
+
