@@ -76,7 +76,6 @@ Wireframe link: https://miro.com/app/board/o9J_lxcfQSE=/
 
 ## Project Status
 
-Project is: _complete_. 
 
 ## Challenges:
 -Planning: One of the main issues I had from the beginning was the planning in terms of implementing a solid wireframe and user-story to later on implement a high level component design and then from there move to the low level design  apply all the functionalities 
